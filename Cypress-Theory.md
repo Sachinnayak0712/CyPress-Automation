@@ -47,3 +47,8 @@ Third party Reporting tool integration is also limited
 4) Open cmd than execute command ( npm -i init ) wait till package.json file is created
 5) To install cypress ( npm install cypress --save -dev )
 6) Start cypress ( npx cypress open )
+
+# Cypress Folder Structure
+![5f45c8_dfe0bc9dd758464eb807d0917cd3e4e7~mv2](https://github.com/Sachinnayak0712/CyPress-Automation/assets/66566069/e5866be4-ef37-4de6-b970-2926ce134f5d)
+
+
